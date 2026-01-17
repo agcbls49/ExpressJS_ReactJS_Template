@@ -1,5 +1,5 @@
-# ExpressCRUD
-Express/Node + React Project
+# ExpressJS + ReactJS(Vite) Template
+This template is for using ReactJS in the frontend and ExpressJS in the backend.
 
 Tutorial by [Arpan Neupane](https://youtu.be/w3vs4a03y3I?si=juWs67s5FTDHO6xl)
 

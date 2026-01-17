@@ -9,7 +9,7 @@ app.use(cors({
 }));
 
 app.get("/api", (req, res) => {
-    res.json({"users": ["userOne", "userTwo","userThree"]});
+    res.json({"users": ["userOne", "userTwo","userThree", "userFour"]});
 });
 
 // Run this development server in port 
